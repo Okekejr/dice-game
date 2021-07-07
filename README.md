@@ -1,2 +1,2 @@
 # dice-game
-![](dice.gif.gif)
+![](dice gif.gif)
